@@ -22,12 +22,14 @@
 
 # Flutter/Dart/Pub related
 **/doc/api/
+.vscode/
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
 .pub-cache/
 .pub/
+/android/key.properties
 /build/
 
 # Web related
